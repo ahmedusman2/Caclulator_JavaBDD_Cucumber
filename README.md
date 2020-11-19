@@ -22,16 +22,17 @@ https://github.com/ahmedusman2/Caclulator_JavaBDD_Cucumber.git
 ```python
 mvn clean test -DsuiteXmlFile=testngCucumber.xml 
 ```
-Note: Alternately the project could be executed from Eclipse IDE. Import the project as Maven Project and then run “testngCucumber.xml”. 
+ >> Note: Alternately the project could be executed from Eclipse IDE. Import the project as Maven Project and then run “testngCucumber.xml”. 
 
 ## Test File Details:
 
-# 1. calulatorBasicOperations.feature: 
+# 1. calulatorBasicOperations.feature:
+
 This file includes Testcase for basic Operations under test like Sub, multiple and clear button functionality. 
 Scenarios:  
-1.1 Subtract two whole numbers 
-1.2 Hit clear 
-1.3 Divide two whole numbers 
+1 Subtract two whole numbers 
+1 Hit clear 
+1 Divide two whole numbers 
  
 
 # 2. subtractionNegCases.feature: 
