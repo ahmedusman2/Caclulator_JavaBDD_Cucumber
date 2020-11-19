@@ -1,0 +1,6 @@
+pageObjects\LandingPage.class
+pageObjects\LoginPage.class
+resources\base.class
+calcFolder\App.class
+pageObjects\portalHomePage.class
+resources\ExtentReporterNG.class
