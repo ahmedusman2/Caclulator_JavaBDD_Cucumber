@@ -1,6 +1,7 @@
 # Caclulator_JavaBDD_Cucumber
-Caclulator_JavaBDD_Cucumber for calculator automation
-About the suite: 
+Caclulator_JavaBDD_Cucumber for calculator automation 
+
+# About the suite: 
 This automation Suite is based on following technology components: 
 
 JAVA 
@@ -10,7 +11,7 @@ TestNG
 Log4J 
 Extent Reports 
  
-Setting up the Automator: 
+## Setting up the Automator: 
 1.       Download the Project from following Git repository: (public repo)
 
 https://github.com/ahmedusman2/Caclulator_JavaBDD_Cucumber.git
