@@ -30,9 +30,9 @@ mvn clean test -DsuiteXmlFile=testngCucumber.xml
 
 This file includes Testcase for basic Operations under test like Sub, multiple and clear button functionality. 
 Scenarios:  
-1 Subtract two whole numbers 
-1 Hit clear 
-1 Divide two whole numbers 
+1. Subtract two whole numbers 
+2. Hit clear 
+3. Divide two whole numbers 
  
 
 # 2. subtractionNegCases.feature: 
