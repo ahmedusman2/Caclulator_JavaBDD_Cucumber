@@ -14,8 +14,8 @@ This automation Suite is based on following technology components:
 Note: All specefic jars are mentioned in maven pom.
  
 ## Setting up the Automator: 
-1.       Download the Project from following Git repository: (public repo)
-```bash
+1. Download the Project from following Git repository: (public repo)
+```python
 https://github.com/ahmedusman2/Caclulator_JavaBDD_Cucumber.git
 ```
 2.       Running from command prompt. Open the project folder from command prompt and hit following command:   mvn clean test -DsuiteXmlFile=testngCucumber.xml 
