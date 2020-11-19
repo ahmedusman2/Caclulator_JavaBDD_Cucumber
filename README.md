@@ -15,15 +15,13 @@ Setting up the Automator:
 
 https://github.com/ahmedusman2/Caclulator_JavaBDD_Cucumber.git
  
-2.       Running from command prompt. Open the project folder from command prompt and hit following command:   
-
-mvn clean test -DsuiteXmlFile=testngCucumber.xml 
+2.       Running from command prompt. Open the project folder from command prompt and hit following command:   mvn clean test -DsuiteXmlFile=testngCucumber.xml 
 
 3.       Alternately the project could be executed from Eclipse IDE. Importing the project as Maven Project and then run “testngCucumber.xml” as Test 
 
 Test File Details:
 
-calulatorBasicOperations.feature: 
+1. calulatorBasicOperations.feature: 
 This file includes Testcase for basic Operations under test like Sub, multiple and clear button functionality. 
 
 Scenarios:  
